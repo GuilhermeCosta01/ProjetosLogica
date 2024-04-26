@@ -2,7 +2,7 @@
 <h2 align="center">Nestes projetos encontram-se funcionalidades ultilizando o Portugol</h2>
 
 - Programação para compra com desconto em loja de frutas.
-  ( Uma fruteira está vendendo frutas com a seguinte tabela de preços: Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar
+  ( Uma fruteira está vendendo frutas com a seguinte tabela de preços: Morango(até 5kg): 2,50 por kg; Morango(acima 5kg): 2,20 por kg. Maçã(até 5kg): 1,80 por kg; Maçã(acima 5kg): 1,50 por kg. Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar
 R$25,00, receberá ainda um desconto de 10% sobre este total. )
 
 - Urna eletrônica.
